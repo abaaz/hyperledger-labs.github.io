@@ -2,9 +2,14 @@
 Cordentity
 
 # Short Description
-The basis project combining Hyperledger Indy Ledger with Corda Platform.
+Hyperledger Indy Ledger on the Corda Platform.
 
-It is often required to share parts of private data and prove assertions based on such data. For example, a person can prove that her age is above the legal age without disclosing how old she is. Indy makes it possible to prove a statement is true while preserving confidentiality. Cordentity project integrates Indy capabilities into a Corda-based environment.
+It is often required to share certain aspects of private data to prove
+assertions based on this data. For example, a person can prove that
+her age is above the legal age without disclosing how old she is. Indy
+makes it possible to prove a statement is true while preserving
+confidentiality. The Cordentity project integrates Indy capabilities
+into a Corda-based environment.
 
 # Scope of Lab
 _Enter the scope of the lab. This should include enough information to allow the Lab stewards to understand how it fits within Hyperledger's mission._
