@@ -19,6 +19,7 @@ _Enter the scope of the lab. This should include enough information to allow the
 _Enter the Github IDs for the set of initial committers._
 - https://github.com/voddan
 - https://github.com/alkopnin
+- https://github.com/jeremiah
 
 # Sponsor
 _Provide the name of your sponsor. A sponsor is required and must be a maintainer of one of the Hyperledger projects, a TSC member, or a WG chair._
