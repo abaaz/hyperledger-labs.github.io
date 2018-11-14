@@ -17,7 +17,6 @@ _Enter the scope of the lab. This should include enough information to allow the
 
 # Initial Committers
 _Enter the Github IDs for the set of initial committers._
-- https://github.com/abaaz
 - https://github.com/voddan
 - https://github.com/alkopnin
 
