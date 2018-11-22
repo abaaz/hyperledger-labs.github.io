@@ -26,4 +26,4 @@ _Provide the name of your sponsor. A sponsor is required and must be a maintaine
 
 # Pre-existing repository
 _If you currently have a Github repository that you wish to transfer to the Hyperledger Labs organization, please provide a link here. **NOTE: Please refer to the README for additional information on existing repositories.**_
-- https://github.com/Luxoft/cordentity
+- https://github.com/Luxoft/cordentity/tree/HL
